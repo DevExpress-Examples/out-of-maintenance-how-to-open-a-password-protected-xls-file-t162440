@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/PasswordToOpenSample/Form1.cs) (VB: [Form1.vb](./VB/PasswordToOpenSample/Form1.vb))
+* [PasswordForm.cs](./CS/PasswordToOpenSample/PasswordForm.cs) (VB: [PasswordForm.vb](./VB/PasswordToOpenSample/PasswordForm.vb))
+<!-- default file list end -->
 # How to open a password protected .xls file
 
 
